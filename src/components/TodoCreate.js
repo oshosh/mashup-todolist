@@ -94,7 +94,6 @@ function TodoCreate() {
     // InsertForm (todolist) 입력 적용부
     const onSubmit = e => {
         e.preventDefault()
-
         dispatch({
             type: 'CREATE',
             todo: {
