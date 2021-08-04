@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mashup-todolist/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mashup-todolist/static/js/main.4b5a318e.chunk.js",
+    "main.js.map": "/mashup-todolist/static/js/main.4b5a318e.chunk.js.map",
+    "runtime-main.js": "/mashup-todolist/static/js/runtime-main.ff0208b0.js",
+    "runtime-main.js.map": "/mashup-todolist/static/js/runtime-main.ff0208b0.js.map",
+    "static/js/2.da76fc2e.chunk.js": "/mashup-todolist/static/js/2.da76fc2e.chunk.js",
+    "static/js/2.da76fc2e.chunk.js.map": "/mashup-todolist/static/js/2.da76fc2e.chunk.js.map",
+    "static/js/3.a637e098.chunk.js": "/mashup-todolist/static/js/3.a637e098.chunk.js",
+    "static/js/3.a637e098.chunk.js.map": "/mashup-todolist/static/js/3.a637e098.chunk.js.map",
+    "index.html": "/mashup-todolist/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mashup-todolist/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.da76fc2e.chunk.js.LICENSE.txt": "/mashup-todolist/static/js/2.da76fc2e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mashup-todolist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0208b0.js",
+    "static/js/2.da76fc2e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4b5a318e.chunk.js"
+  ]
+}
